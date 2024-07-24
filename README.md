@@ -1,0 +1,2 @@
+# hotel-sample
+Hotel website
